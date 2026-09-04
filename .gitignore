@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 ﻿.vs/
+=======
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.user
+>>>>>>> d790096087031271cc11909eb31cdc5df1b0e08b

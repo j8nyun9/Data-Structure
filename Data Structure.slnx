@@ -1,7 +1,11 @@
 <Solution>
+<<<<<<< HEAD
   <Configurations>
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
   <Project Path="DS/DS.vcxproj" Id="708c37fa-92fc-4f30-ba8f-8a9d37709742" />
+=======
+  <Project Path="Data Structure/Data Structure.csproj" />
+>>>>>>> d790096087031271cc11909eb31cdc5df1b0e08b
 </Solution>
